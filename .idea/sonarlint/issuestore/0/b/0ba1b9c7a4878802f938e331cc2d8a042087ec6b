@@ -1,0 +1,37 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(áÑƒ¤8ÎÇ­¡£1
+J
+java:S1604""(Make this anonymous inner class a lambda(Æ™Í¶ûÿÿÿÿ8ÐÇ­¡£1
+E
+java:S1604*"(Make this anonymous inner class a lambda(áÑƒ¤8ÑÇ­¡£1
+J
+java:S1604/"(Make this anonymous inner class a lambda(Æ™Í¶ûÿÿÿÿ8ÑÇ­¡£1
+E
+java:S1604<"(Make this anonymous inner class a lambda(áÑƒ¤8ÒÇ­¡£1
+J
+java:S1604A"(Make this anonymous inner class a lambda(Æ™Í¶ûÿÿÿÿ8ÒÇ­¡£1
+E
+java:S1604I"(Make this anonymous inner class a lambda(áÑƒ¤8ÒÇ­¡£1
+J
+java:S1604N"(Make this anonymous inner class a lambda(Æ™Í¶ûÿÿÿÿ8ÓÇ­¡£1
+X	java:S125	"<This block of commented-out lines of code should be removed.(³¿Õ8ãÉ­¡£1
+I
+java:S1125"'Remove the unnecessary boolean literal.(¡¯Šçùÿÿÿÿ8‰Ê­¡£1
+D
+java:S1125"'Remove the unnecessary boolean literal.(Ý©ç„8Ê­¡£1
+J
+java:S1125 "(Remove the unnecessary boolean literals.(Ù¿²’ûÿÿÿÿ8Ê­¡£1
+E
+java:S1125-"(Remove the unnecessary boolean literals.(õòý8¦Ê­¡£1
+E
+java:S1125?"(Remove the unnecessary boolean literals.(“—ãº8­Ê­¡£1
+D
+java:S1125?"'Remove the unnecessary boolean literal.(“—ãº8­Ê­¡£1
+J
+java:S1125L"(Remove the unnecessary boolean literals.(ýâŽûþÿÿÿÿ8²Ê­¡£1
+I
+java:S1125L"'Remove the unnecessary boolean literal.(ýâŽûþÿÿÿÿ8²Ê­¡£1
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(Ö‘è8ðóÅŸ£1
+^
+java:S1144"<Remove this unused private "runUsingAnonymousObject" method.(èÏùÍúÿÿÿÿ8½Ê­¡£1
